@@ -1,0 +1,2 @@
+# herman-gameserver-aggregation
+gameserver
